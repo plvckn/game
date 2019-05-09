@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557413906 source:c:\users\pauli\desktop\zz\gamecatchum\main.cpp
+	"Klases.h"
+
+1557413411 c:\users\pauli\desktop\zz\gamecatchum\include\klases.h
+	<vector>
+	<windows.h>
+	<fstream>
+	<iostream>
+	<conio.h>
+	<time.h>
+
+1557413411 source:c:\users\pauli\desktop\zz\gamecatchum\src\klases.cpp
+	"Klases.h"
+
